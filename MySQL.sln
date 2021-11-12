@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySQLReverseEngineering", "MySQLReverseEngineering\MySQLReverseEngineering.csproj", "{8AF18722-7806-4DCF-809C-49E69B38B480}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLForwardEngineering", "MySQLForwardEngineering\MySQLForwardEngineering.csproj", "{C25154AD-F098-4074-9688-F7311F230F97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySQLForwardEngineering", "MySQLForwardEngineering\MySQLForwardEngineering.csproj", "{C25154AD-F098-4074-9688-F7311F230F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySQLWebAPI", "MySQLWebAPI\MySQLWebAPI.csproj", "{6F230CC7-818F-4BD6-A8D7-A5EC476B1B5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C25154AD-F098-4074-9688-F7311F230F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C25154AD-F098-4074-9688-F7311F230F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C25154AD-F098-4074-9688-F7311F230F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F230CC7-818F-4BD6-A8D7-A5EC476B1B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F230CC7-818F-4BD6-A8D7-A5EC476B1B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F230CC7-818F-4BD6-A8D7-A5EC476B1B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F230CC7-818F-4BD6-A8D7-A5EC476B1B5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

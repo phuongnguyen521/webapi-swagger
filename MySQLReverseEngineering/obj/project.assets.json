@@ -1627,11 +1627,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PRN211\\MySQLReverseEngineering\\MySQLReverseEngineering\\MySQLReverseEngineering.csproj",
+      "projectUniqueName": "F:\\PRN211\\MySQL\\MySQLReverseEngineering\\MySQLReverseEngineering.csproj",
       "projectName": "MySQLReverseEngineering",
-      "projectPath": "F:\\PRN211\\MySQLReverseEngineering\\MySQLReverseEngineering\\MySQLReverseEngineering.csproj",
+      "projectPath": "F:\\PRN211\\MySQL\\MySQLReverseEngineering\\MySQLReverseEngineering.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\PRN211\\MySQLReverseEngineering\\MySQLReverseEngineering\\obj\\",
+      "outputPath": "F:\\PRN211\\MySQL\\MySQLReverseEngineering\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

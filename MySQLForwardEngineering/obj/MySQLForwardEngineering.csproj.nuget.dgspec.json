@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\PRN211\\MySQLReverseEngineering\\MySQLForwardEngineering\\MySQLForwardEngineering.csproj": {}
+    "F:\\PRN211\\MySQL\\MySQLForwardEngineering\\MySQLForwardEngineering.csproj": {}
   },
   "projects": {
-    "F:\\PRN211\\MySQLReverseEngineering\\MySQLForwardEngineering\\MySQLForwardEngineering.csproj": {
+    "F:\\PRN211\\MySQL\\MySQLForwardEngineering\\MySQLForwardEngineering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PRN211\\MySQLReverseEngineering\\MySQLForwardEngineering\\MySQLForwardEngineering.csproj",
+        "projectUniqueName": "F:\\PRN211\\MySQL\\MySQLForwardEngineering\\MySQLForwardEngineering.csproj",
         "projectName": "MySQLForwardEngineering",
-        "projectPath": "F:\\PRN211\\MySQLReverseEngineering\\MySQLForwardEngineering\\MySQLForwardEngineering.csproj",
+        "projectPath": "F:\\PRN211\\MySQL\\MySQLForwardEngineering\\MySQLForwardEngineering.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "F:\\PRN211\\MySQLReverseEngineering\\MySQLForwardEngineering\\obj\\",
+        "outputPath": "F:\\PRN211\\MySQL\\MySQLForwardEngineering\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

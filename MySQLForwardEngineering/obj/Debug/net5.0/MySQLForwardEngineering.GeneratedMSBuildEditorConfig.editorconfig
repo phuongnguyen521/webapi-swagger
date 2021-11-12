@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = MySQLForwardEngineering
-build_property.ProjectDir = F:\PRN211\MySQLReverseEngineering\MySQLForwardEngineering\
+build_property.ProjectDir = F:\PRN211\MySQL\MySQLForwardEngineering\
